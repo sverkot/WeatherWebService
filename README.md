@@ -10,3 +10,12 @@ your application and allows the user to launch any of the pages in your web appl
 WebView (not an implicit intent). This screen can use buttons, spinners or any component that 
 you think is attractive and user friendly.
 
+Screenshots
+-----------
+https://cloud.githubusercontent.com/assets/8931809/20945559/6c95b4c8-bbcd-11e6-822d-d0d1549e9357.png
+
+https://cloud.githubusercontent.com/assets/8931809/20945579/7be04d94-bbcd-11e6-94d3-7960fde93d52.png
+
+https://cloud.githubusercontent.com/assets/8931809/20945596/8615b420-bbcd-11e6-8aa5-cac6851f3e87.png
+
+https://cloud.githubusercontent.com/assets/8931809/20945620/9202cc46-bbcd-11e6-80d7-8a2ca499ac74.png
